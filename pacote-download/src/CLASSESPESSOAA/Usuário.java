@@ -1,0 +1,8 @@
+package CLASSESPESSOAA;
+
+public class Usuário extends Pessoa{
+ 
+    //USUARIOS IRÁ ABRIR O MENU E ALUGAR LIVROS
+    
+   //PARA ABRIR O MENU BASTA SE CADASTRAR NORMALMENTE
+}
